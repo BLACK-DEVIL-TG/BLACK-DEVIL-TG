@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
+## <img src="https://github.com/BLACK-DEVIL-TG/BLACK-DEVIL-TG/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [BLACK-DEVIL-TG](https://github.com/BLACK-DEVIL-TG) Welcome To Github Profile
 
 * 📚 Student
 
@@ -10,9 +10,8 @@
 😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
 </p>
 <p align="center">
-<a href="https://www.instagram.com/mrk_yt_"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/PR0FESS0R_99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/c/MoTech_YT"><img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&logo=youtube&logoColor=red"/></a>
+<a href="https://www.instagram.com/ya_see.n"><img alt="Instagram" src="https://img.shields.io/badge/BLACK-DEVIL-TG-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/BLACK_DEVIL_TG"><img alt="Telegram" src="https://img.shields.io/badge/BLACK_DEVIL_TG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
@@ -32,7 +31,7 @@
 📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=BLACK_DEVIL_TG&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p>
 
@@ -42,7 +41,7 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
 </p>
 <p align="center">
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=BLACK-DEVIL-TG&theme=darkhub" />
 </p>
 
 
