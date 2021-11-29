@@ -1,5 +1,5 @@
 
-## 👋🏻 src="https://github.com/BLACK-DEVIL-TG/BLACK-DEVIL-TG/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [BLACK DEVIL TG](https://github.com/BLACK-DEVIL-TG) Welcome To Github Profile
+## <img src="https://github.com/BLACK-DEVIL-TG/BLACK-DEVIL-TG/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [BLACK DEVIL TG](https://github.com/BLACK-DEVIL-TG) Welcome To Github Profile
 
 * 📚 Student and Learning Python 
 
