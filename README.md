@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+BLACK DEVIL TG Github +Follow +And...;Fork+Pm+Telegram+and+Instagram...;And+New+a+Telegram Bots+Repo as Coming soon...;With+more+features...)](https://git.io/typing-svg)
 
 
 ## <img src="https://github.com/BLACK-DEVIL-TG/BLACK-DEVIL-TG/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [BLACK DEVIL TG](https://github.com/BLACK-DEVIL-TG) Welcome To Github Profile
