@@ -1,8 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+black-devi-tg's+Profile)](https://git.io/typing-svg)
 
 
-## <img src="https://github.com/BLACK-DEVIL-TG/BLACK-DEVIL-TG/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [BLACK DEVIL TG](https://github.com/BLACK-DEVIL-TG) Welcome To Github Profile
-
 * 📚 Student and Learning Python 
 
 
