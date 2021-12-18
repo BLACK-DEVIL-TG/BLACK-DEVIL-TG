@@ -11,6 +11,8 @@
 <p align="center">
 <a href="https://t.me/BLACK_DEVIL_TG"><img alt="Telegram" src="https://img.shields.io/badge/BLACK_DEVIL_TG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+<a href="https://www.instagram.com/joel_boban14" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Joel Boban-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BLACK-DEVIL-TG&theme=highcontrast" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=BLACK-DEVIL-TG&theme=tokyonight" align="center">
